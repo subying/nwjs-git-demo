@@ -1,0 +1,9 @@
+._*
+node_modules/*
+node_modules
+credits.html
+*.exe
+*.dll
+*.pak
+locales
+*.dat
